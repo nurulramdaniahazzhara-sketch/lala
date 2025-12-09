@@ -1,1 +1,3 @@
-console.log("Website siap!");
+function showMessage() {
+    alert("Halo! Script JavaScript kamu berhasil berjalan.");
+}
